@@ -1,4 +1,4 @@
-# Tic-Tac-Toe AI
+# Tic-Tac-Toe AI with Minimax & Alpha-Beta Pruning
 
 This is a Python implementation of the **Tic-Tac-Toe** game, featuring a choice of two AI algorithms:
 
