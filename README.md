@@ -21,7 +21,6 @@ This is a Python implementation of the **Tic-Tac-Toe** game, featuring a choice 
 - [How to Play](#how-to-play)
 - [AI Algorithms](#ai-algorithms)
 - [Example Game](#example-game)
-- [License](#license)
 
 ---
 
